@@ -22,3 +22,4 @@ more style of $I_c$.
 
 ## More Control for free using interpolation canny map or depth map as control
 ![img](image/003.png)
+![img](image/002.png)
