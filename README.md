@@ -20,6 +20,7 @@ and if we set $\alpha$ = 0, the $\hat{x_0}$ will contain zero style of $I_s$ and
 more style of $I_c$.
 ![img](image/007.png)
 
-## More Control for free using interpolation canny map or depth map as control
+# More Control for free using interpolation canny map or depth map as control
 ![img](image/003.png)
-![img](image/002.png)
+# The Effect of DDIM Step
+![img](image/004.png)
