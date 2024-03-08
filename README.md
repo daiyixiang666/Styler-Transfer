@@ -18,7 +18,7 @@ The reason behind
 the method is that the interpolation help preserve the original structure and the style of $I_c$. If we set $\alpha = 1 $, it will become the basic method 
 and if we set $\alpha$ = 0, the $\hat{x_0}$ will contain zero style of $I_s$ and produce the original image $I_c$. This method give us two dimension control. Increasing $\alpha$ will results in 
 more style of $I_c$.
-![img](image/007.png)
+![img](image/007 copy.pngg)
 
 # More Control for free using interpolation canny map or depth map as control
 ![img](image/003.png)
