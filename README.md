@@ -21,5 +21,7 @@ more style of $I_c$.
 ![img](https://github.com/daiyixiang666/Styler-Transfer/blob/master/image/007.png)
 # More Control for free using interpolation canny map or depth map as control
 ![img](image/003.png)
+# More Control for free using interpolation using Gradient desent for extra guidance
+![img](https://github.com/daiyixiang666/Styler-Transfer/blob/master/image/008.png)
 # The Effect of DDIM Step
 ![img](image/004.png)
