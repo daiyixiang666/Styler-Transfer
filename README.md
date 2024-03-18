@@ -23,9 +23,7 @@ more style of $I_c$.
 
 ![img](image/003.png)
 # More Control for free using Gradient desent for extra guidance
-$
-\boldsymbol{x}_{i-1} \leftarrow \boldsymbol{x}_{i-1}^{\prime}-\zeta_i \nabla_{\boldsymbol{x}_i}\left\|\boldsymbol{y}-\mathcal{A}\left(\hat{\boldsymbol{x}}_0\right)\right\|_2^2
-$
+![img](image/009.png)
 ![img](https://github.com/daiyixiang666/Styler-Transfer/blob/master/image/008.png)
 # The Effect of DDIM Step
 ![img](image/004.png)
